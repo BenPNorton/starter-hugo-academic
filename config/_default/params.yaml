@@ -29,12 +29,12 @@ address:
   postcode: '14850'
   country: United States
   country_code: US
-coordinates:
-  latitude: ''
-  longitude: ''
-directions: 
-office_hours:
-  - 
+# coordinates:
+#  latitude: ''
+#  longitude: ''
+#directions: 
+#office_hours:
+#  - 
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
