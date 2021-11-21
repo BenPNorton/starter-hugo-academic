@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Applied Economics and Managements
+  - course: PhD in Applied Economics and Management
     institution: Cornell University
     year: 2025
   - course: MS in Agricultural and Applied Economics
@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Benjamin Norton is a cool guy.
+I am interested in applying industrial organization methods to topics in international development, including agricultural economics and market development.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
