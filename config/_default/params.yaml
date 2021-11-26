@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: forest
+theme: rose
 day_night: true
 font: 'minimal'
 font_size: L
@@ -35,24 +35,24 @@ address:
 #directions: 
 #office_hours:
 #  - 
-appointment_url: 'https://calendly.com'
+#appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'https://twitter.com/BenPNorton'
+ # - icon: skype
+ #   icon_pack: fab
+ #   name: Skype Me
+ #   link: 'skype:echo123?call'
+ # - icon: keybase
+ #   icon_pack: fab
+ #   name: Chat on Keybase
+ #   link: 'https://keybase.io/'
+ # - icon: comments
+ #   icon_pack: fas
+ #   name: Discuss on Forum
+ #   link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -76,7 +76,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
